@@ -1,0 +1,118 @@
+body, h1 {
+    font: 200 1em/1em 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+.controls {
+    text-align: center;
+    padding: 1em;
+}
+
+.controls button {
+    display: inline-block;
+    padding: 0.5em;
+    margin: 0 0.5em;
+}
+
+button.active {
+    background: #ffff00;
+}
+
+.about {
+    padding: 1em;
+    min-height: 200px;
+    line-height: 1.5em;
+}
+
+.about h1 {
+    font-weight: bold;
+}
+
+.title, .description {
+    transition: all 1s ease-in;
+}
+
+.description {
+    font-size: 0.8em;
+}
+
+.divider {
+    display: inline-block;
+    margin: 0 1em 0 1em;
+    width: 1px;
+    background: #ccc;
+    height: 3em;
+    vertical-align: middle;
+}
+
+#canvas {
+    margin: 1em auto 0 auto;
+    overflow: hidden;
+    position: relative;
+    width: 1000px;
+    height: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 2em #ccc;
+}
+
+h1#canvas-title {
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    letter-spacing: 0.05em;
+    font-size: 8em;
+    font-weight: 100;
+}
+
+.image {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border: 1px solid #555;
+    box-shadow: 0.5em 0.5em 1em #888;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+}
+
+.image.opened, .image.opened:hover {
+    width: 300px;
+    height: 300px;
+    transition-timing-function: ease-out;
+}
+
+.image:active, .image:focus {
+    border: 20px solid #ff0000;
+}
+
+.image:hover {
+    width: 220px;
+    height: 220px;
+    border-color: #ff0000;
+    transition-timing-function: ease-in;
+}
+
+#close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5em;
+    background: #fff;
+    text-align: center;
+    font-size: 3em;
+    cursor: pointer;
+}
+
+#close:hover {
+    background: #555;
+    color: #fff;
+}

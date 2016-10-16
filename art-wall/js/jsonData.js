@@ -1,0 +1,111 @@
+var jsonData = [{
+    "url": "img/ej-sf-1.jpg",
+    "positionTop": 49,
+    "positionLeft": 367,
+    "rotationDegrees": 35
+}, {
+    "url": "img/ej-sf-2.jpg",
+    "positionTop": 156,
+    "positionLeft": 598,
+    "rotationDegrees": 27
+}, {
+    "url": "img/ej-sf-3.jpg",
+    "positionTop": 273,
+    "positionLeft": 184,
+    "rotationDegrees": 71
+}, {
+    "url": "img/ej-sf-4.jpg",
+    "positionTop": 400,
+    "positionLeft": 602,
+    "rotationDegrees": 44
+}, {
+    "url": "img/ej-sf-5.jpg",
+    "positionTop": 389,
+    "positionLeft": 135,
+    "rotationDegrees": 55
+}, {
+    "url": "img/ej-sf-6.jpg",
+    "positionTop": 10,
+    "positionLeft": 591,
+    "rotationDegrees": 103
+}, {
+    "url": "img/ej-sf-7.jpg",
+    "positionTop": 4,
+    "positionLeft": 350,
+    "rotationDegrees": 71
+}, {
+    "url": "img/ej-sf-8.jpg",
+    "positionTop": 178,
+    "positionLeft": 377,
+    "rotationDegrees": 38
+}, {
+    "url": "img/ej-sf-9.jpg",
+    "positionTop": 262,
+    "positionLeft": 700,
+    "rotationDegrees": 173
+}, {
+    "url": "img/ej-sf-10.jpg",
+    "positionTop": 82,
+    "positionLeft": 878,
+    "rotationDegrees": 10
+}, {
+    "url": "img/ej-sf-11.jpg",
+    "positionTop": 200,
+    "positionLeft": 122,
+    "rotationDegrees": 175
+}, {
+    "url": "img/ej-sf-12.jpg",
+    "positionTop": 256,
+    "positionLeft": 440,
+    "rotationDegrees": 34
+}, {
+    "url": "img/ej-sf-13.jpg",
+    "positionTop": 214,
+    "positionLeft": 663,
+    "rotationDegrees": 2
+}, {
+    "url": "img/ej-sf-14.jpg",
+    "positionTop": 319,
+    "positionLeft": 328,
+    "rotationDegrees": 50
+}, {
+    "url": "img/ej-sf-15.jpg",
+    "positionTop": 45,
+    "positionLeft": 321,
+    "rotationDegrees": 144
+}, {
+    "url": "img/ej-sf-16.jpg",
+    "positionTop": 268,
+    "positionLeft": 10,
+    "rotationDegrees": 141
+}, {
+    "url": "img/ej-sf-17.jpg",
+    "positionTop": 222,
+    "positionLeft": 704,
+    "rotationDegrees": 53
+}, {
+    "url": "img/ej-sf-18.jpg",
+    "positionTop": 20,
+    "positionLeft": 742,
+    "rotationDegrees": 136
+}, {
+    "url": "img/ej-sf-19.jpg",
+    "positionTop": 17,
+    "positionLeft": 82,
+    "rotationDegrees": 126
+}, {
+    "url": "img/ej-sf-20.jpg",
+    "positionTop": 90,
+    "positionLeft": 408,
+    "rotationDegrees": 114
+}, {
+    "url": "img/ej-sf-21.jpg",
+    "positionTop": 75,
+    "positionLeft": 253,
+    "rotationDegrees": 180
+}, {
+    "url": "img/ej-sf-22.jpg",
+    "positionTop": 332,
+    "positionLeft": 402,
+    "rotationDegrees": 173
+}];
